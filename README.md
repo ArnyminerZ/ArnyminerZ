@@ -16,7 +16,7 @@ I'm always looking for new projects to work on, but right now my main project is
 
 ### 📲 My social media
 
-I have all my social media accounts in [LinkTree](https://linktr.ee/ArnyminerZ), but I'm mostly active over at [X](https://x.com/ArnyminerZ), [Instagram](https://instagram.com/ArnyminerZ) and [Reddit](https://www.reddit.com/user/ArnyminerZ).
+I have all my social media accounts in [LinkTree](https://linktr.ee/ArnyminerZ), but I'm mostly active over at ~[X](https://x.com/ArnyminerZ)~, [Instagram](https://instagram.com/ArnyminerZ) and [Reddit](https://www.reddit.com/user/ArnyminerZ).
 
 <!--
 **ArnyminerZ/ArnyminerZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
